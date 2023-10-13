@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1668980987 source:c:\users\lordu\onedrive\Área de trabalho\projeto final\projeto final\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"cabecalho.h"
+
+1668977767 c:\users\lordu\onedrive\Área de trabalho\projeto final\projeto final\cabecalho.h
+
+1668981055 source:c:\users\lordu\onedrive\Área de trabalho\projeto final\projeto final\codigos.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"cabecalho.h"
+
